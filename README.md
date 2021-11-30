@@ -1,7 +1,10 @@
 @R1ckJ4m3s
 
 Creative Software
-
+  Web Stuff
+  Linux Stuff
+  Hardware somewhat
+  
 Mostly a Hobby
 
 <!---
